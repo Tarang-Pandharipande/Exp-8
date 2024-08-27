@@ -358,9 +358,14 @@ return 0;
 }
 ```
 ## Output - 
-![Screenshot 2024-08-27 135541](https://github.com/user-attachments/assets/20dd639a-eb40-4123-9fd1-9200d29f0424)
-![Screenshot 2024-08-27 135919](https://github.com/user-attachments/assets/ebd7ab57-6e21-42b8-9231-8f5c133f6421)
-![Screenshot 2024-08-27 140018](https://github.com/user-attachments/assets/2e5feea4-4761-4df9-a11f-d0608901152f)
-![Screenshot 2024-08-27 140140](https://github.com/user-attachments/assets/a02df0ec-0436-41ae-95d5-84a030b9eccb)
-![Screenshot 2024-08-27 140207](https://github.com/user-attachments/assets/a0d36d67-4ab7-4ae6-b88a-5d12561ef226)
-![Screenshot 2024-08-27 135734](https://github.com/user-attachments/assets/e8c53bc3-103a-48a8-bcf2-e4860d886527)
+1. ![Screenshot 2024-08-27 135541](https://github.com/user-attachments/assets/20dd639a-eb40-4123-9fd1-9200d29f0424)
+2. ![Screenshot 2024-08-27 135919](https://github.com/user-attachments/assets/ebd7ab57-6e21-42b8-9231-8f5c133f6421)
+3. ![Screenshot 2024-08-27 140018](https://github.com/user-attachments/assets/2e5feea4-4761-4df9-a11f-d0608901152f)
+4. ![Screenshot 2024-08-27 140140](https://github.com/user-attachments/assets/a02df0ec-0436-41ae-95d5-84a030b9eccb)
+5. ![Screenshot 2024-08-27 140207](https://github.com/user-attachments/assets/a0d36d67-4ab7-4ae6-b88a-5d12561ef226)
+6. ![Screenshot 2024-08-27 135734](https://github.com/user-attachments/assets/e8c53bc3-103a-48a8-bcf2-e4860d886527)
+
+
+
+
+
